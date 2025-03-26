@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+
+    height: 600px;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 100px;
+    text-align: center;
+    color: red;
+    font-size: 70px;
+    background-image: url("travelimages/backgroung\ image.jpeg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+.main-section h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.main-container{
+    display: flex;
+    padding: 20px 50px;
+}
+.box{
+    margin: 5px;
+    border: 1px solid #070707;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.box-image{
+    height: 60%;
+}
+.box-contain{
+    padding: 10px;
+    
+}
+.box-contain h4{
+    color: blueviolet;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 14px;
+}
+.box-contain p{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn-style{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+
+form{
+    width: 60%;
+    margin: auto;
+}
